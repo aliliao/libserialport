@@ -277,6 +277,7 @@ extern "C" {
 #endif
 
 #include <stddef.h>
+#include "config.h"
 
 /** @cond */
 #ifdef _MSC_VER
